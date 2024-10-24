@@ -1,6 +1,5 @@
 // 小手調べ
 
-
 function setup(){
 
   createCanvas(120,120);
@@ -30,6 +29,4 @@ function setup(){
   }
 
 }
-
-
 
